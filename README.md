@@ -1,6 +1,6 @@
 ### Basit_website.4<hr>
 
-
+Kullanıcıların işletme hakkında bilgiye ulaşmasına kolaylık sağlar.<hr>
 
 
 
